@@ -1,1 +1,1 @@
-# AI_attendence_system
+# ai-attendance-project-app
